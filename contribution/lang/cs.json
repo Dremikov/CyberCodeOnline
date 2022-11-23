@@ -137,7 +137,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Našli jste uzamčenou kořist s barevnou klávesnicí, měli byste jej odemknout se správným pořadem barev.",
+ 	 	 	 	 	"trans": "Našli jste uzamčenou kořist s barevnou klávesnicí, měli byste jej odemknout se správným pořadím barev.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
@@ -174,7 +174,7 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "Lidé Ukrajiny, Ruska a celý svět trpí, protože ambice jednoho muže.",
+ 	 	 	 	"trans": "Lidé na Ukrajině, v Rusku a na celém světě trpí kvůli ambicím jednoho muže.",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
@@ -248,7 +248,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"noBalance": {
- 	 	 	 	"trans": "Nemůžete nic vybrat, když nemáte žádný zůstatek.",
+ 	 	 	 	"trans": "Nemůžete nic vybrat, máte nulový zůstatek.",
  	 	 	 	"eng": "You can't withdraw when you have no balance."
  	 	 	}
  	 	},
@@ -276,7 +276,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "Našli jste starý uzamčený trezor, zdá se, že uvnitř je dopis s nějakým textem nápisem na něm.",
+ 	 	 	 	"trans": "Našli jste starý uzamčený trezor, zdá se, že uvnitř je dopis s textem.",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -288,7 +288,7 @@
  	 	 	 	"eng": "Pin Code"
  	 	 	},
  	 	 	"inputPlaceholder": {
- 	 	 	 	"trans": "Zadejte kód PIN",
+ 	 	 	 	"trans": "Zadejte PIN kód",
  	 	 	 	"eng": "Enter pin code"
  	 	 	}
  	 	},
@@ -354,7 +354,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"vpnName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Využití chat je ve skutečnosti, veškerá odeslaná zpráva bude změněna. Pomocí ${vpnName} zajistěte své připojení!",
+ 	 	 	 	 	"trans": "Chat exploit je aktivní, všechny odeslané zprávy budou změněny. Pomocí ${vpnName} zajistěte své připojení!",
  	 	 	 	 	"eng": "Chat exploit is in effect, all message sent will be altered. use ${vpnName} to secure your connection!"
  	 	 	 	},
  	 	 	 	"activateVPN": {
